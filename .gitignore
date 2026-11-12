@@ -1,0 +1,4 @@
+# archives / local artifacts
+*.zip
+*.log
+extracted/
